@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Demo Couchbase Lite</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_first_demo">FirstDemoActivity</string>
+    <string name="title_activity_view_demo">ViewDemoActivity</string>
+
+    <string name="hello_world">Hello world!</string>
+</resources>

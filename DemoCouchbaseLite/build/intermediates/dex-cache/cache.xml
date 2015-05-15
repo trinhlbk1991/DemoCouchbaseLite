@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\KhanhTrinh\.gradle\caches\modules-2\files-2.1\org.codehaus.jackson\jackson-core-asl\1.9.2\8493982bba1727106d767034bd0d8e77bc1931a9\jackson-core-asl-1.9.2.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="8493982bba1727106d767034bd0d8e77bc1931a9">
+        <dex dex="E:\android-studio-workspace\DemoCouchbaseLite\app\build\intermediates\pre-dexed\debug\jackson-core-asl-1.9.2-64b96fd9c1bd5ca0fe8a3aa25f8aa037aba293e6.jar" />
+    </item>
+    <item
+        jar="E:\android-studio-workspace\DemoCouchbaseLite\app\build\intermediates\exploded-aar\com.couchbase.lite\couchbase-lite-android\1.0.3-4\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="acedb7ba0f430facf161457d4b3da78343a58d29">
+        <dex dex="E:\android-studio-workspace\DemoCouchbaseLite\app\build\intermediates\pre-dexed\debug\classes-ffcf5eb4ab36e60f9d586a0dcdb9e80473d3f279.jar" />
+    </item>
+    <item
+        jar="C:\Users\KhanhTrinh\.gradle\caches\modules-2\files-2.1\org.codehaus.jackson\jackson-mapper-asl\1.9.2\95400a7922ce75383866eb72f6ef4a7897923945\jackson-mapper-asl-1.9.2.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="95400a7922ce75383866eb72f6ef4a7897923945">
+        <dex dex="E:\android-studio-workspace\DemoCouchbaseLite\app\build\intermediates\pre-dexed\debug\jackson-mapper-asl-1.9.2-510129ca27f9d3f8cb74d9a23f0c800b3507d134.jar" />
+    </item>
+    <item
+        jar="C:\Users\KhanhTrinh\.gradle\caches\modules-2\files-2.1\com.github.oxo42\stateless4j\2.4.0\128aca4ace585f0b42faa739d0b968a154debb7a\stateless4j-2.4.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="128aca4ace585f0b42faa739d0b968a154debb7a">
+        <dex dex="E:\android-studio-workspace\DemoCouchbaseLite\app\build\intermediates\pre-dexed\debug\stateless4j-2.4.0-1df39b67276f3c5bd261de7fdbeee711830d7b7a.jar" />
+    </item>
+    <item
+        jar="C:\Users\KhanhTrinh\.gradle\caches\modules-2\files-2.1\com.couchbase.lite\couchbase-lite-java-core\1.0.3-4\43bbeaa61b159986814c42b74a75931243044925\couchbase-lite-java-core-1.0.3-4.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="43bbeaa61b159986814c42b74a75931243044925">
+        <dex dex="E:\android-studio-workspace\DemoCouchbaseLite\app\build\intermediates\pre-dexed\debug\couchbase-lite-java-core-1.0.3-4-616f454deb9c86f6c69e353872aa292652fe372d.jar" />
+    </item>
+    <item
+        jar="E:\android-studio-workspace\DemoCouchbaseLite\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.1.1\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="c95ba8152923e4872e86a82cfcba9a51c0214328">
+        <dex dex="E:\android-studio-workspace\DemoCouchbaseLite\app\build\intermediates\pre-dexed\debug\classes-f6f4cc821299fac17f5cd7b3af39bd0d8a031e24.jar" />
+    </item>
+    <item
+        jar="E:\Softwares\AndroidSDK\extras\android\m2repository\com\android\support\support-annotations\22.1.1\support-annotations-22.1.1.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="01d051a6bfb1218b1db2d3a5af0480ac2c25c42a">
+        <dex dex="E:\android-studio-workspace\DemoCouchbaseLite\app\build\intermediates\pre-dexed\debug\support-annotations-22.1.1-dfdfd3a8716d86211480c7c0c4d4461cb5465799.jar" />
+    </item>
+    <item
+        jar="E:\android-studio-workspace\DemoCouchbaseLite\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.1.1\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="a3ff3c506644c820eb2bdf06e8339f72be578551">
+        <dex dex="E:\android-studio-workspace\DemoCouchbaseLite\app\build\intermediates\pre-dexed\debug\classes-94917e9efa5c5e0d985740dc0ed0fed729296225.jar" />
+    </item>
+    <item
+        jar="E:\android-studio-workspace\DemoCouchbaseLite\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.1.1\jars\libs\internal_impl-22.1.1.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="9e070ad32b2700b0343e8e0cccc437733d91ba3a">
+        <dex dex="E:\android-studio-workspace\DemoCouchbaseLite\app\build\intermediates\pre-dexed\debug\internal_impl-22.1.1-8ed75098d4829a14b68920081c482a57d3478278.jar" />
+    </item>
+
+</items>

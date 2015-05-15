@@ -1,0 +1,21 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:padding="@dimen/activity_horizontal_margin"
+    android:orientation="vertical"
+    tools:context="com.icetea09.com.democouchbaselite.MainActivity">
+
+    <Button
+        android:id="@+id/btn_document_demo"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Documetn and Attachment Demo"/>
+
+    <Button
+        android:id="@+id/btn_view_demo"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="View Demo"/>
+
+</LinearLayout>
